@@ -1,0 +1,16 @@
+-- git hub --
+
+	douwnload
+git clone link
+
+	update
+git status
+git pull
+git add -A
+git commit -m "stuff I did"
+git push
+git status
+	
+	branch
+git checkout -b createBranch
+git checkout nameOfBranch
